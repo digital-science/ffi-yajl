@@ -8,6 +8,12 @@
 
 ### Bugs fixed
 
+## 1.4.1 (25/04/2019)
+
+* Add support for ruby versions > 2.3
+
+### New features
+
 ## 1.4.0 (02/17/2015)
 
 ### New features

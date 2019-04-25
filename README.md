@@ -1,5 +1,8 @@
+# IMPORTANT NOTICE
 
-[![Build Status](https://travis-ci.org/opscode/ffi-yajl.png)](https://travis-ci.org/opscode/ffi-yajl)  [![Code Climate](https://codeclimate.com/github/opscode/ffi-yajl.png)](https://codeclimate.com/github/opscode/ffi-yajl)
+This is a fork of https://github.com/chef/ffi-yajl at 1.4.0 to add
+support for at least ruby 2.4. This is needed to be able to use Chef 11
+with ruby 2.4.
 
 # FFI YAJL
 
